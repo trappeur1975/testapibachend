@@ -17,3 +17,4 @@ dans le fichier "composer.json" un script (que j ai nommé « reset-data ») a �
 
 ----------------------------
 18/12/2021 : version 1 sans jwt
+19/12/2021 : jwt installer
